@@ -1,1 +1,2 @@
 planning layout
+v1.2 modified svgs to be abel to change color with css
